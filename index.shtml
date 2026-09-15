@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name = "viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="favicon.png" type="image/png">
+<link href="https://fonts.googleapis.com/css2?family=Valley+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+<title>"Squirrels"</title>
+<link rel="stylesheet" href="style.css" type="text/css">
+</head>
+
+<body>
+<h2>Render Info</h2>
+<ul>
+     <li>Name: Siddharth Buddha</li>
+     <li>Render Location: <a href = "">""</a></li>
+
+</ul>
+ <strong>Last Modified: </strong><!--#echo var="LAST_MODIFIED" --><br>
+<h1 id="title">Squirrels</h1>
+
+<p>Squirrels are some of the cutest furriest animals in the wild. They are small, brown mammals with a huge tail. Squirrels are often 
+     seen in neighborhood backyards or woods and forests always nibbling on small nuts and acorns.
+</p>
+<iframe
+  width="400"
+  height="250"
+  src="https://www.youtube.com/embed/aQ2GJotiMqs">
+</iframe>
+
+    <table class="tableStyle">
+     <caption><em>Learn About Different Types of Squirrels</em></caption>
+        <thead>
+        <tr>
+            <th>Species</th>
+            <th>Habitat</th>
+            <th>Fun Facts</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Western Grey Squirrel</td>
+            <td>High Trees in the West Coast of the United States and Mexico</td>
+            <td>These squirrels live alone and they do not hiberate in the winter. 
+               They store food by burying it in the ground for the remiander of the year</td>
+        </tr>
+        <tr>
+            <td>California Ground Squirrel</td>
+            <td>West Coast of the United States and Baja California burrow undergrounds</td>
+            <td>Some of these squirrels hibernate through the winter, which is dependent on the location's weather conditions. 
+               These squireels do not live alone, they live with close buddies</td>
+        </tr>
+        <tr>
+            <td>Fox Squirrel</td>
+            <td>Mostly in the eastern United States and also some in the urban west coast areas. 
+               They live in trees</td>
+            <td>These squirrels like to scavenge and store food in different locations and alternate between staying alone and with other squirrel buddies </td>
+        </tr>
+        <tr>
+            <td>Humboldt's Flying Squirrel</td>
+            <td>Confierious and Mixed Confierious Forests of North America</td>
+            <td>These squirrels love plants, bird eggs, fungi and insects and sap. These squirrels glide with a parachute like membrane called patagium to help them glide through the air. 
+               These squirrels glow pink when exposed to UV light and communicate via ultrasonic vocalizations</td>
+        </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
